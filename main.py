@@ -8,4 +8,4 @@ lista.append('s3')
 print(lista)
 lista.insert(4,12)
 print(lista)
-123
+1234
