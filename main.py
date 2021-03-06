@@ -1,5 +1,10 @@
-a = 5
-b = 3
-z = 5 - 3
+lista = [3,4,5,3.14, 's',
+         6,7]
+print (lista)
 
-print ("wynik działania %(z1)d - %(z2)d = %(z3)d" % {'z1': a, 'z2': b, 'z3': z})
+lista.append(6)
+lista.append('s3')
+
+print(lista)
+lista.insert(4,12)
+print(lista)
