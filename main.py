@@ -1,3 +1,1 @@
-import sys as system
-
-print(system.version)
+print("Wynik działania jest a = %(zm)d" %{'zm': 12})
